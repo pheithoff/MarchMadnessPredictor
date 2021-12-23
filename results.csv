@@ -1,0 +1,845 @@
+Team1,Team2,Score
+Maryland-2002,Siena-2002,15
+Wisconsin-2002,St. John's-2002,10
+Marquette-2002,Tulsa-2002,-2
+Kentucky-2002,Valparaiso-2002,15
+Texas Tech-2002,Southern Illinois-2002,-8
+Georgia-2002,Murray State-2002,17
+North Carolina State-2002,Michigan State-2002,11
+Connecticut-2002,Hampton-2002,11
+Maryland-2002,Wisconsin-2002,30
+Tulsa-2002,Kentucky-2002,-5
+Southern Illinois-2002,Georgia-2002,2
+North Carolina State-2002,Connecticut-2002,-3
+Maryland-2002,Kentucky-2002,10
+Southern Illinois-2002,Connecticut-2002,-12
+Maryland-2002,Connecticut-2002,8
+Kansas-2002,Holy Cross-2002,11
+Stanford-2002,Western Kentucky-2002,16
+Florida-2002,Creighton-2002,-1
+Illinois-2002,San Diego State-2002,29
+Texas-2002,Boston College-2002,13
+Mississippi State-2002,McNeese State-2002,12
+Wake Forest-2002,Pepperdine-2002,9
+Oregon-2002,Montana-2002,19
+Kansas-2002,Stanford-2002,23
+Creighton-2002,Illinois-2002,-12
+Texas-2002,Mississippi State-2002,4
+Wake Forest-2002,Oregon-2002,-5
+Kansas-2002,Illinois-2002,4
+Texas-2002,Oregon-2002,-2
+Kansas-2002,Oregon-2002,18
+Duke-2002,Winthrop-2002,47
+Notre Dame-2002,Charlotte-2002,19
+Indiana-2002,Utah-2002,19
+Southern California-2002,UNC-Wilmington-2002,-4
+California-2002,Pennsylvania-2002,7
+Pittsburgh-2002,Central Connecticut State-2002,17
+Oklahoma State-2002,Kent State-2002,-8
+Alabama-2002,Florida Atlantic-2002,8
+Duke-2002,Notre Dame-2002,7
+Indiana-2002,UNC-Wilmington-2002,9
+California-2002,Pittsburgh-2002,-13
+Kent State-2002,Alabama-2002,13
+Duke-2002,Indiana-2002,-1
+Pittsburgh-2002,Kent State-2002,-5
+Indiana-2002,Kent State-2002,12
+Cincinnati-2002,Boston University-2002,38
+UCLA-2002,Ole Miss-2002,22
+Miami (FL)-2002,Missouri-2002,-13
+Ohio State-2002,Davidson-2002,5
+Gonzaga-2002,Wyoming-2002,-7
+Arizona-2002,UC-Santa Barbara-2002,5
+Xavier-2002,Hawaii-2002,12
+Oklahoma-2002,Illinois-Chicago-2002,8
+Cincinnati-2002,UCLA-2002,-4
+Missouri-2002,Ohio State-2002,16
+Wyoming-2002,Arizona-2002,-8
+Xavier-2002,Oklahoma-2002,-13
+UCLA-2002,Missouri-2002,-9
+Arizona-2002,Oklahoma-2002,-21
+Missouri-2002,Oklahoma-2002,-6
+Maryland-2002,Kansas-2002,9
+Indiana-2002,Oklahoma-2002,9
+Maryland-2002,Indiana-2002,12
+Arizona-2003,Vermont-2003,29
+Cincinnati-2003,Gonzaga-2003,-5
+Notre Dame-2003,UW–Milwaukee-2003,1
+Illinois-2003,Western Kentucky-2003,5
+Creighton-2003,Central Michigan-2003,-6
+Duke-2003,Colorado State-2003,10
+Memphis-2003,Arizona State-2003,-13
+Kansas-2003,Utah St-2003,3
+Arizona-2003,Gonzaga-2003,1
+Notre Dame-2003,Illinois-2003,8
+Central Michigan-2003,Duke-2003,-26
+Arizona St-2003,Kansas-2003,-32
+Arizona-2003,Notre Dame-2003,17
+Duke-2003,Kansas-2003,-4
+Arizona-2003,Kansas-2003,-3
+Kentucky-2003,IUPUI-2003,31
+Oregon-2003,Utah-2003,-2
+Wisconsin-2003,Weber State-2003,7
+Dayton-2003,Tulsa-2003,-13
+Missouri-2003,Southern Illinois-2003,1
+Marquette-2003,Holy Cross-2003,4
+Indiana-2003,Alabama-2003,5
+Pittsburgh-2003,Wagner-2003,26
+Kentucky-2003,Utah-2003,20
+Wisconsin-2003,Tulsa-2003,1
+Missouri-2003,Marquette-2003,-9
+Indiana-2003,Pittsburgh-2003,-22
+Kentucky-2003,Wisconsin-2003,6
+Marquette-2003,Pittsburgh-2003,3
+Kentucky-2003,Marquette-2003,-14
+Texas-2003,UNC-Asheville-2003,21
+LSU-2003,Purdue-2003,-24
+Connecticut-2003,BYU-2003,5
+Stanford-2003,San Diego-2003,8
+Maryland-2003,UNC-Wilmington-2003,2
+Xavier-2003,Troy St-2003,12
+Michigan St-2003,Colorado-2003,15
+Florida-2003,Sam Houston St-2003,30
+Texas-2003,Purdue-2003,10
+Connecticut-2003,Stanford-2003,11
+Maryland-2003,Xavier-2003,13
+Michigan St-2003,Florida-2003,22
+Texas-2003,Connecticut-2003,4
+Maryland-2003,Michigan St-2003,-2
+Texas-2003,Michigan St-2003,9
+Oklahoma-2003,South Carolina St-2003,17
+California-2003,North Carolina State-2003,2
+Mississippi St-2003,Butler-2003,-1
+Louisville-2003,Austin Peay-2003,22
+Oklahoma St-2003,Pennsylvania-2003,14
+Syracuse-2003,Manhattan-2003,11
+Saint Joseph's-2003,Auburn-2003,-2
+Wake Forest-2003,East Tennessee State-2003,3
+Oklahoma-2003,California-2003,9
+Butler-2003,Louisville-2003,8
+Oklahoma St-2003,Syracuse-2003,-12
+Auburn-2003,Wake Forest-2003,6
+Oklahoma-2003,Butler-2003,11
+Syracuse-2003,Auburn-2003,1
+Oklahoma-2003,Syracuse-2003,-16
+Syracuse-2003,Texas-2003,11
+Marquette-2003,Kansas-2003,-33
+Syracuse-2003,Kansas-2003,3
+Morehead State-2009,Alabama State-2009,15
+Louisville-2009,Morehead State-2009,20
+Ohio State-2009,Siena-2009,-2
+Utah-2009,Arizona-2009,-13
+Wake Forest-2009,Cleveland State-2009,-15
+West Virginia-2009,Dayton-2009,-8
+Kansas-2009,North Dakota State-2009,10
+Boston College-2009,USC-2009,-17
+Michigan State-2009,Robert Morris-2009,15
+Louisville-2009,Siena-2009,7
+Arizona-2009,Cleveland State-2009,14
+Dayton-2009,Kansas-2009,-17
+USC-2009,Michigan State-2009,-5
+Louisville-2009,Arizona-2009,39
+Kansas-2009,Michigan State-2009,-5
+Louisville-2009,Michigan State-2009,-12
+Connecticut-2009,Chattanooga-2009,56
+BYU-2009,Texas A&M-2009,-13
+Purdue-2009,Northern Iowa-2009,5
+Washington-2009,Mississippi State-2009,13
+Marquette-2009,Utah State-2009,1
+Missouri-2009,Cornell-2009,19
+California-2009,Maryland-2009,-13
+Memphis-2009,Cal State Northridge-2009,11
+Connecticut-2009,Texas A&M-2009,26
+Purdue-2009,Washington-2009,2
+Marquette-2009,Missouri-2009,-4
+Maryland-2009,Memphis-2009,-19
+Connecticut-2009,Purdue-2009,12
+Missouri-2009,Memphis-2009,11
+Connecticut-2009,Missouri-2009,7
+Pittsburgh-2009,East Tennessee State-2009,10
+Oklahoma State-2009,Tennessee-2009,2
+Florida St.-2009,Wisconsin-2009,-2
+Xavier-2009,Portland St.-2009,18
+UCLA-2009,VCU-2009,1
+Villanova-2009,American-2009,13
+Texas-2009,Minnesota-2009,14
+Duke-2009,Binghamton-2009,24
+Pittsburgh-2009,Oklahoma State-2009,8
+Wisconsin-2009,Xavier-2009,-11
+UCLA-2009,Villanova-2009,-20
+Texas-2009,Duke-2009,-5
+Pittsburgh-2009,Xavier-2009,-5
+Villanova-2009,Duke-2009,23
+Pittsburgh-2009,Villanova-2009,-2
+North Carolina-2009,Radford-2009,43
+LSU-2009,Butler-2009,4
+Illinois-2009,Western Kentucky-2009,-4
+Gonzaga-2009,Akron-2009,13
+Arizona State-2009,Temple-2009,9
+Syracuse-2009,Stephen F. Austin-2009,15
+Clemson-2009,Michigan-2009,-3
+Oklahoma-2009,Morgan State-2009,28
+North Carolina-2009,LSU-2009,14
+Western Kentucky-2009,Gonzaga-2009,-2
+Arizona State-2009,Syracuse-2009,-11
+Michigan-2009,Oklahoma-2009,-10
+North Carolina-2009,Gonzaga-2009,21
+Syracuse-2009,Oklahoma-2009,-13
+North Carolina-2009,Oklahoma-2009,12
+Michigan State-2009,Connecticut-2009,9
+Villanova-2009,North Carolina-2009,-14
+Michigan State-2009,North Carolina-2009,-17
+UTSA-2011,Alabama State-2011,9
+Clemson-2011,UAB-2011,18
+UNC-Asheville-2011,Arkansas-Little Rock-2011,4
+VCU-2011,USC-2011,13
+Ohio State-2011,UTSA-2011,29
+George Mason-2011,Villanova-2011,4
+West Virginia-2011,Clemson-2011,8
+Kentucky-2011,Princeton-2011,2
+Xavier-2011,Marquette-2011,-11
+Syracuse-2011,Indiana State-2011,17
+Washington-2011,Georgia-2011,3
+North Carolina-2011,Long Island-2011,15
+Ohio State-2011,George Mason-2011,32
+West Virginia-2011,Kentucky-2011,-8
+Marquette-2011,Syracuse-2011,4
+Washington-2011,North Carolina-2011,-3
+Ohio State-2011,Kentucky-2011,-2
+Marquette-2011,North Carolina-2011,-18
+Kentucky-2011,North Carolina-2011,7
+Duke-2011,Hampton-2011,42
+Michigan-2011,Tennessee-2011,30
+Arizona-2011,Memphis-2011,2
+Texas-2011,Oakland-2011,4
+Cincinnati-2011,Missouri-2011,15
+Connecticut-2011,Bucknell-2011,29
+Temple-2011,Penn State-2011,2
+San Diego State-2011,Northern Colorado-2011,18
+Duke-2011,Michigan-2011,2
+Arizona-2011,Texas-2011,1
+Cincinnati-2011,Connecticut-2011,-11
+Temple-2011,San Diego State-2011,-7
+Duke-2011,Arizona-2011,-16
+Connecticut-2011,San Diego State-2011,7
+Arizona-2011,Connecticut-2011,-2
+Kansas-2011,Boston University-2011,19
+UNLV-2011,Illinois-2011,-11
+Vanderbilt-2011,Richmond-2011,-3
+Louisville-2011,Morehead State-2011,-1
+Georgetown-2011,VCU-2011,-18
+Purdue-2011,Saint Peter's-2011,22
+Texas A&M-2011,Florida State-2011,-7
+Notre Dame-2011,Akron-2011,13
+Kansas-2011,Illinois-2011,14
+Richmond-2011,Morehead State-2011,17
+VCU-2011,Purdue-2011,18
+Florida State-2011,Notre Dame-2011,14
+Kansas-2011,Richmond-2011,20
+VCU-2011,Florida State-2011,1
+Kansas-2011,VCU-2011,-10
+Pittsburgh-2011,UNC Asheville-2011,23
+Butler-2011,Old Dominion-2011,2
+Kansas State-2011,Utah State-2011,5
+Wisconsin-2011,Belmont-2011,14
+St. John's-2011,Gonzaga-2011,-15
+BYU-2011,Wofford-2011,8
+UCLA-2011,Michigan State-2011,2
+Florida-2011,UC Santa Barbara-2011,28
+Pittsburgh-2011,Butler-2011,-1
+Kansas State-2011,Wisconsin-2011,-5
+Gonzaga-2011,BYU-2011,-22
+UCLA-2011,Florida-2011,-8
+Butler-2011,Wisconsin-2011,7
+BYU-2011,Florida-2011,-9
+Butler-2011,Florida-2011,3
+Kentucky-2011,Connecticut-2011,-1
+VCU-2011,Butler-2011,-8
+Connecticut-2011,Butler-2011,12
+Mississippi Valley State-2012,Western Kentucky-2012,-1
+Lamar-2012,Vermont-2012,-12
+BYU-2012,Iona-2012,6
+California-2012,South Florida-2012,-11
+Kentucky-2012,Western Kentucky-2012,15
+Iowa State-2012,Connecticut-2012,13
+Wichita State-2012,VCU-2012,-3
+Indiana-2012,New Mexico State-2012,13
+UNLV-2012,Colorado-2012,-4
+Baylor-2012,South Dakota State-2012,8
+Notre Dame-2012,Xavier-2012,-4
+Duke-2012,Lehigh-2012,-5
+Kentucky-2012,Iowa State-2012,16
+VCU-2012,Indiana-2012,-2
+Colorado-2012,Baylor-2012,-17
+Xavier-2012,Lehigh-2012,12
+Kentucky-2012,Indiana-2012,12
+Baylor-2012,Xavier-2012,5
+Kentucky-2012,Baylor-2012,12
+Michigan State-2012,Long Island-2012,22
+Memphis-2012,Saint Louis-2012,-7
+New Mexico-2012,Long Beach State-2012,7
+Louisville-2012,Davidson-2012,7
+Murray State-2012,Colorado State-2012,17
+Marquette-2012,BYU-2012,20
+Florida-2012,Virginia-2012,26
+Missouri-2012,Norfolk State-2012,-2
+Michigan State-2012,Saint Louis-2012,4
+New Mexico-2012,Louisville-2012,-3
+Murray State-2012,Marquette-2012,-9
+Florida-2012,Norfolk State-2012,34
+Michigan State-2012,Louisville-2012,-13
+Marquette-2012,Florida-2012,-10
+Louisville-2012,Florida-2012,4
+Syracuse-2012,UNC Asheville-2012,7
+Kansas State-2012,Southern Miss-2012,6
+Vanderbilt-2012,Harvard-2012,9
+Wisconsin-2012,Montana-2012,24
+Cincinnati-2012,Texas-2012,6
+Florida State-2012,St. Bonaventure-2012,3
+Gonzaga-2012,West Virginia-2012,23
+Ohio State-2012,Loyola (MD)-2012,19
+Syracuse-2012,Kansas State-2012,16
+Vanderbilt-2012,Wisconsin-2012,-3
+Cincinnati-2012,Florida State-2012,6
+Gonzaga-2012,Ohio State-2012,-7
+Syracuse-2012,Wisconsin-2012,1
+Cincinnati-2012,Ohio State-2012,-15
+Syracuse-2012,Ohio State-2012,-7
+North Carolina-2012,Vermont-2012,19
+Creighton-2012,Alabama-2012,1
+Temple-2012,South Florida-2012,-14
+Michigan-2012,Ohio-2012,-5
+San Diego State-2012,North Carolina State-2012,-14
+Georgetown-2012,Belmont-2012,15
+Saint Mary's-2012,Purdue-2012,-3
+Kansas-2012,Detroit-2012,15
+North Carolina-2012,Creighton-2012,14
+South Florida-2012,Ohio-2012,-6
+North Carolina State-2012,Georgetown-2012,3
+Purdue-2012,Kansas-2012,-3
+North Carolina-2012,Ohio-2012,8
+North Carolina State-2012,Kansas-2012,-3
+North Carolina-2012,Kansas-2012,-13
+Louisville-2012,Kentucky-2012,-8
+Ohio St-2012,Kansas-2012,-2
+Kansas-2012,Kentucky-2012,-8
+Middle Tennessee-2013,Saint Mary's-2013,-13
+Liberty-2013,North Carolina A&T-2013,-1
+Boise State-2013,La Salle-2013,-9
+James Madison-2013,Long Island-2013,13
+Louisville-2013,North Carolina A&T-2013,31
+Colorado State-2013,Missouri-2013,12
+Oklahoma State-2013,Oregon-2013,-13
+Saint Louis-2013,New Mexico State-2013,20
+Memphis-2013,Saint Mary's-2013,2
+Michigan State-2013,Valparaiso-2013,11
+Creighton-2013,Cincinnati-2013,4
+Duke-2013,Albany-2013,12
+Louisville-2013,Colorado State-2013,26
+Oregon-2013,Saint Louis-2013,17
+Memphis-2013,Michigan State-2013,-22
+Creighton-2013,Duke-2013,-16
+Louisville-2013,Oregon-2013,8
+Michigan State-2013,Duke-2013,-10
+Louisville-2013,Duke-2013,22
+Gonzaga-2013,Southern-2013,6
+Pittsburgh-2013,Wichita State-2013,-18
+Wisconsin-2013,Mississippi-2013,-11
+Kansas State-2013,La Salle-2013,-2
+Arizona-2013,Belmont-2013,17
+New Mexico-2013,Harvard-2013,-6
+Notre Dame-2013,Iowa State-2013,-18
+Ohio State-2013,Iona-2013,25
+Gonzaga-2013,Wichita State-2013,-6
+Mississippi-2013,La Salle-2013,-2
+Arizona-2013,Harvard-2013,23
+Iowa State-2013,Ohio State-2013,-3
+Wichita State-2013,La Salle-2013,14
+Arizona-2013,Ohio State-2013,-3
+Wichita State-2013,Ohio State-2013,4
+Kansas-2013,Western Kentucky-2013,7
+North Carolina-2013,Villanova-2013,7
+VCU-2013,Akron-2013,46
+Michigan-2013,South Dakota State-2013,15
+UCLA-2013,Minnesota-2013,-20
+Florida-2013,Northwestern State-2013,32
+San Diego State-2013,Oklahoma-2013,15
+Georgetown-2013,Florida Gulf Coast-2013,-10
+Kansas-2013,North Carolina-2013,12
+VCU-2013,Michigan-2013,-25
+Minnesota-2013,Florida-2013,-14
+San Diego State-2013,Florida Gulf Coast-2013,-10
+Kansas-2013,Michigan-2013,-2
+Florida-2013,Florida Gulf Coast-2013,12
+Michigan-2013,Florida-2013,20
+Indiana-2013,James Madison-2013,21
+NC State-2013,Temple-2013,-4
+UNLV-2013,California-2013,-3
+Syracuse-2013,Montana-2013,47
+Butler-2013,Bucknell-2013,12
+Marquette-2013,Davidson-2013,1
+Illinois-2013,Colorado-2013,8
+Miami (FL)-2013,Pacific-2013,29
+Indiana-2013,Temple-2013,6
+California-2013,Syracuse-2013,-6
+Butler-2013,Marquette-2013,-2
+Illinois-2013,Miami (FL)-2013,-4
+Indiana-2013,Syracuse-2013,-11
+Marquette-2013,Miami (FL)-2013,10
+Syracuse-2013,Marquette-2013,16
+Louisville-2013,Wichita State-2013,4
+Michigan-2013,Syracuse-2013,5
+Louisville-2013,Michigan-2013,6
+NC State-2014,Xavier-2014,15
+Albany-2014,Mount St. Mary's-2014,7
+Iowa-2014,Tennessee-2014,-13
+Cal Poly-2014,Texas Southern-2014,12
+Florida-2014,Albany-2014,12
+Colorado-2014,Pittsburgh-2014,-29
+VCU-2014,Stephen F. Austin-2014,-2
+UCLA-2014,Tulsa-2014,17
+Ohio State-2014,Dayton-2014,-1
+Syracuse-2014,Western Michigan-2014,24
+New Mexico-2014,Stanford-2014,-5
+Kansas-2014,Eastern Kentucky-2014,11
+Florida-2014,Pittsburgh-2014,16
+Stephen F. Austin-2014,UCLA-2014,-17
+Dayton-2014,Syracuse-2014,2
+Stanford-2014,Kansas-2014,3
+Florida-2014,UCLA-2014,11
+Dayton-2014,Stanford-2014,10
+Florida-2014,Dayton-2014,10
+Virginia-2014,Coastal Carolina-2014,11
+Memphis-2014,George Washington-2014,5
+Cincinnati-2014,Harvard-2014,-4
+Michigan State-2014,Delaware-2014,15
+North Carolina-2014,Providence-2014,2
+Iowa State-2014,NC Central-2014,18
+UConn-2014,Saint Joseph's-2014,8
+Villanova-2014,Milwaukee-2014,20
+Virginia-2014,Memphis-2014,18
+Harvard-2014,Michigan State-2014,-7
+North Carolina-2014,Iowa State-2014,-2
+UConn-2014,Villanova-2014,12
+Virginia-2014,Michigan State-2014,-2
+Iowa State-2014,UConn-2014,-5
+Michigan State-2014,UConn-2014,-6
+Arizona-2014,Weber State-2014,9
+Gonzaga-2014,Oklahoma State-2014,8
+Oklahoma-2014,North Dakota State-2014,-5
+San Diego State-2014,New Mexico State-2014,4
+Baylor-2014,Nebraska-2014,14
+Creighton-2014,Louisiana–Lafayette-2014,10
+Oregon-2014,BYU-2014,19
+Wisconsin-2014,American-2014,40
+Arizona-2014,Gonzaga-2014,23
+North Dakota State-2014,San Diego State-2014,-19
+Baylor-2014,Creighton-2014,30
+Oregon-2014,Wisconsin-2014,-8
+Arizona-2014,San Diego State-2014,6
+Baylor-2014,Wisconsin-2014,-17
+Arizona-2014,Wisconsin-2014,-1
+Wichita State-2014,Cal Poly-2014,27
+Kentucky-2014,Kansas State-2014,7
+Saint Louis-2014,NC State-2014,3
+Louisville-2014,Manhattan-2014,7
+Massachusetts-2014,Tennessee-2014,-19
+Duke-2014,Mercer-2014,-7
+Texas-2014,Arizona State-2014,2
+Michigan-2014,Wofford-2014,17
+Wichita State-2014,Kentucky-2014,-2
+Saint Louis-2014,Louisville-2014,-15
+Tennessee-2014,Mercer-2014,20
+Texas-2014,Michigan-2014,-14
+Kentucky-2014,Louisville-2014,5
+Tennessee-2014,Michigan-2014,-2
+Kentucky-2014,Michigan-2014,3
+Kentucky-2014,Wisconsin-2014,1
+UConn-2014,Florida-2014,10
+Kentucky-2014,UConn-2014,-6
+BYU-2015,Ole Miss-2015,-4
+Hampton-2015,Manhattan-2015,10
+Boise State-2015,Dayton-2015,-1
+North Florida-2015,Robert Morris-2015,-4
+Kentucky-2015,Hampton-2015,23
+Cincinnati-2015,Purdue-2015,1
+West Virginia-2015,Buffalo-2015,6
+Maryland-2015,Valparaiso-2015,3
+Butler-2015,Texas-2015,8
+Notre Dame-2015,Northeastern-2015,4
+Wichita State-2015,Indiana-2015,5
+Kansas-2015,New Mexico State-2015,19
+Kentucky-2015,Cincinnati-2015,13
+West Virginia-2015,Maryland-2015,10
+Butler-2015,Notre Dame-2015,-3
+Wichita State-2015,Kansas-2015,13
+Kentucky-2015,West Virginia-2015,39
+Notre Dame-2015,Wichita State-2015,11
+Kentucky-2015,Notre Dame-2015,2
+Wisconsin-2015,Coastal Carolina-2015,14
+Oregon-2015,Oklahoma State-2015,6
+Arkansas-2015,Wofford-2015,3
+North Carolina-2015,Harvard-2015,2
+Xavier-2015,Ole Miss-2015,19
+Baylor-2015,Georgia State-2015,-1
+Virginia Commonwealth-2015,Ohio State-2015,-3
+Arizona-2015,Texas Southern-2015,21
+Wisconsin-2015,Oregon-2015,7
+Arkansas-2015,North Carolina-2015,-9
+Xavier-2015,Georgia State-2015,8
+Ohio State-2015,Arizona-2015,-15
+Wisconsin-2015,North Carolina-2015,7
+Xavier-2015,Arizona-2015,-8
+Wisconsin-2015,Arizona-2015,7
+Villanova-2015,Lafayette-2015,41
+North Carolina State-2015,LSU-2015,1
+Northern Iowa-2015,Wyoming-2015,17
+Louisville-2015,California-Irvine-2015,2
+Providence-2015,Dayton-2015,-13
+Oklahoma-2015,Albany-2015,9
+Michigan State-2015,Georgia-2015,7
+Virginia-2015,Belmont-2015,12
+Villanova-2015,North Carolina State-2015,-3
+Northern Iowa-2015,Louisville-2015,-13
+Dayton-2015,Oklahoma-2015,-6
+Michigan State-2015,Virginia-2015,6
+North Carolina State-2015,Louisville-2015,-10
+Oklahoma-2015,Michigan State-2015,-4
+Louisville-2015,Michigan State-2015,-6
+Duke-2015,Robert Morris-2015,29
+San Diego State-2015,St. John's-2015,12
+Utah-2015,Stephen F. Austin-2015,7
+Georgetown-2015,Eastern Washington-2015,10
+Southern Methodist-2015,UCLA-2015,-1
+Iowa State-2015,UAB-2015,-1
+Iowa-2015,Davidson-2015,31
+Gonzaga-2015,North Dakota State-2015,10
+Duke-2015,San Diego State-2015,19
+Utah-2015,Georgetown-2015,11
+UCLA-2015,UAB-2015,17
+Iowa-2015,Gonzaga-2015,-19
+Duke-2015,Utah-2015,6
+UCLA-2015,Gonzaga-2015,-12
+Duke-2015,Gonzaga-2015,14
+Kentucky-2015,Wisconsin-2015,-7
+Michigan State-2015,Duke-2015,-20
+Wisconsin-2015,Duke-2015,-5
+Vanderbilt-2016,Wichita State-2016,-20
+Florida Gulf Coast-2016,Fairleigh Dickinson-2016,31
+Michigan-2016,Tulsa-2016,5
+Holy Cross-2016,Southern-2016,4
+Kansas-2016,Austin Peay-2016,26
+Colorado-2016,UConn-2016,-7
+Maryland-2016,South Dakota State-2016,5
+California-2016,Hawaii-2016,-11
+Arizona-2016,Wichita State-2016,-10
+Miami (FL)-2016,Buffalo-2016,7
+Iowa-2016,Temple-2016,2
+Villanova-2016,UNC Asheville-2016,30
+Kansas-2016,UConn-2016,12
+Maryland-2016,Hawaii-2016,13
+Wichita State-2016,Miami (FL)-2016,-8
+Iowa-2016,Villanova-2016,-19
+Kansas-2016,Maryland-2016,16
+Miami (FL)-2016,Villanova-2016,-23
+Kansas-2016,Villanova-2016,-5
+Oregon-2016,Holy Cross-2016,39
+Saint Joseph's-2016,Cincinnati-2016,2
+Baylor-2016,Yale-2016,-4
+Duke-2016,UNC Wilmington-2016,8
+Texas-2016,Northern Iowa-2016,-3
+Texas A&M-2016,Green Bay-2016,27
+Oregon State-2016,VCU-2016,-8
+Oklahoma-2016,Cal State Bakersfield-2016,14
+Oregon-2016,Saint Joseph's-2016,5
+Yale-2016,Duke-2016,-7
+Northern Iowa-2016,Texas A&M-2016,-4
+VCU-2016,Oklahoma-2016,-4
+Oregon-2016,Duke-2016,14
+Texas A&M-2016,Oklahoma-2016,-14
+Oregon-2016,Oklahoma-2016,-12
+North Carolina-2016,Florida Gulf Coast-2016,16
+USC-2016,Providence-2016,-1
+Indiana-2016,Chattanooga-2016,25
+Kentucky-2016,Stony Brook-2016,28
+Notre Dame-2016,Michigan-2016,7
+West Virginia-2016,Stephen F. Austin-2016,-14
+Wisconsin-2016,Pittsburgh-2016,4
+Xavier-2016,Weber State-2016,18
+North Carolina-2016,Providence-2016,19
+Indiana-2016,Kentucky-2016,6
+Notre Dame-2016,Stephen F. Austin-2016,1
+Wisconsin-2016,Xavier-2016,3
+North Carolina-2016,Indiana-2016,15
+Notre Dame-2016,Wisconsin-2016,5
+North Carolina-2016,Notre Dame-2016,14
+Virginia-2016,Hampton-2016,36
+Texas Tech-2016,Butler-2016,-10
+Purdue-2016,Little Rock-2016,-2
+Iowa State-2016,Iona-2016,13
+Seton Hall-2016,Gonzaga-2016,-16
+Utah-2016,Fresno State-2016,11
+Dayton-2016,Syracuse-2016,-19
+Michigan State-2016,Middle Tennessee-2016,-9
+Virginia-2016,Butler-2016,8
+Little Rock-2016,Iowa State-2016,-17
+Gonzaga-2016,Utah-2016,23
+Syracuse-2016,Middle Tennessee-2016,25
+Virginia-2016,Iowa State-2016,13
+Gonzaga-2016,Syracuse-2016,-3
+Virginia-2016,Syracuse-2016,-6
+Villanova-2016,Oklahoma-2016,44
+North Carolina-2016,Syracuse-2016,17
+Villanova-2016,North Carolina-2016,3
+Villanova-2017,Mount St. Mary's-2017,20
+Wisconsin-2017,Virginia Tech-2017,10
+Virginia-2017,UNC Wilmington-2017,5
+Florida-2017,East Tennessee State-2017,15
+SMU-2017,USC-2017,-1
+Baylor-2017,New Mexico State-2017,18
+South Carolina-2017,Marquette-2017,20
+Duke-2017,Troy-2017,22
+Villanova-2017,Wisconsin-2017,-3
+Virginia-2017,Florida-2017,-26
+USC-2017,Baylor-2017,-4
+South Carolina-2017,Duke-2017,7
+Wisconsin-2017,Florida-2017,-1
+Baylor-2017,South Carolina-2017,-20
+Florida-2017,South Carolina-2017,-7
+Gonzaga-2017,South Dakota State-2017,20
+Northwestern-2017,Vanderbilt-2017,2
+Notre Dame-2017,Princeton-2017,2
+West Virginia-2017,Bucknell-2017,6
+Maryland-2017,Xavier-2017,-11
+Florida State-2017,Florida Gulf Coast-2017,6
+Saint Mary's-2017,VCU-2017,8
+Arizona-2017,North Dakota-2017,18
+Gonzaga-2017,Northwestern-2017,6
+Notre Dame-2017,West Virginia-2017,-12
+Xavier-2017,Florida State-2017,25
+Saint Mary's-2017,Arizona-2017,-9
+Gonzaga-2017,West Virginia-2017,3
+Xavier-2017,Arizona-2017,2
+Gonzaga-2017,Xavier-2017,24
+Kansas-2017,UC Davis-2017,38
+Miami (FL)-2017,Michigan State-2017,-20
+Iowa State-2017,Nevada-2017,11
+Purdue-2017,Vermont-2017,10
+Creighton-2017,Rhode Island-2017,-12
+Oregon-2017,Iona-2017,16
+Michigan-2017,Oklahoma State-2017,1
+Louisville-2017,Jacksonville State-2017,15
+Kansas-2017,Michigan State-2017,20
+Iowa State-2017,Purdue-2017,-4
+Rhode Island-2017,Oregon-2017,-3
+Michigan-2017,Louisville-2017,4
+Kansas-2017,Purdue-2017,32
+Oregon-2017,Michigan-2017,1
+Kansas-2017,Oregon-2017,-14
+North Carolina-2017,Texas Southern-2017,39
+Arkansas-2017,Seton Hall-2017,6
+Minnesota-2017,Middle Tennessee-2017,-9
+Butler-2017,Winthrop-2017,12
+Cincinnati-2017,Kansas State-2017,14
+UCLA-2017,Kent State-2017,17
+Dayton-2017,Wichita State-2017,-6
+Kentucky-2017,Northern Kentucky-2017,9
+North Carolina-2017,Arkansas-2017,7
+Middle Tennessee-2017,Butler-2017,-9
+Cincinnati-2017,UCLA-2017,-12
+Wichita State-2017,Kentucky-2017,-3
+North Carolina-2017,Butler-2017,12
+UCLA-2017,Kentucky-2017,-11
+North Carolina-2017,Kentucky-2017,2
+South Carolina-2017,Gonzaga-2017,-4
+Oregon-2017,North Carolina-2017,-1
+Gonzaga-2017,North Carolina-2017,-6
+Virginia-2018,UMBC-2018,-20
+Creighton-2018,Kansas State-2018,-10
+Kentucky-2018,Davidson-2018,5
+Arizona-2018,Buffalo-2018,-21
+Miami (FL)-2018,Loyola–Chicago-2018,-2
+Tennessee-2018,Wright State-2018,26
+Nevada-2018,Texas-2018,4
+Cincinnati-2018,Georgia State-2018,15
+UMBC-2018,Kansas State-2018,-7
+Kentucky-2018,Buffalo-2018,20
+Loyola–Chicago-2018,Tennessee-2018,1
+Nevada-2018,Cincinnati-2018,2
+Kansas State-2018,Kentucky-2018,3
+Loyola–Chicago-2018,Nevada-2018,1
+Kansas State-2018,Loyola–Chicago-2018,-16
+Xavier-2018,Texas Southern-2018,19
+Missouri-2018,Florida State-2018,-13
+Ohio State-2018,South Dakota State-2018,8
+Gonzaga-2018,UNC Greensboro-2018,4
+Houston-2018,San Diego State-2018,2
+Michigan-2018,Montana-2018,14
+Texas A&M-2018,Providence-2018,4
+North Carolina-2018,Lipscomb-2018,18
+Xavier-2018,Florida State-2018,-5
+Ohio State-2018,Gonzaga-2018,-6
+Houston-2018,Michigan-2018,-1
+Texas A&M-2018,North Carolina-2018,21
+Florida State-2018,Gonzaga-2018,15
+Michigan-2018,Texas A&M-2018,27
+Florida State-2018,Michigan-2018,-4
+Villanova-2018,Radford-2018,26
+Virginia Tech-2018,Alabama-2018,-3
+West Virginia-2018,Murray State-2018,17
+Wichita State-2018,Marshall-2018,-6
+Florida-2018,St. Bonaventure-2018,15
+Texas Tech-2018,Stephen F. Austin-2018,10
+Arkansas-2018,Butler-2018,-17
+Purdue-2018,Cal State Fullerton-2018,26
+Villanova-2018,Alabama-2018,23
+West Virginia-2018,Marshall-2018,23
+Florida-2018,Texas Tech-2018,-3
+Butler-2018,Purdue-2018,-3
+Villanova-2018,West Virginia-2018,12
+Texas Tech-2018,Purdue-2018,13
+Villanova-2018,Texas Tech-2018,12
+Kansas-2018,Penn-2018,16
+Seton Hall-2018,NC State-2018,11
+Clemson-2018,New Mexico State-2018,11
+Auburn-2018,College of Charleston-2018,4
+TCU-2018,Syracuse-2018,-5
+Michigan State-2018,Bucknell-2018,4
+Rhode Island-2018,Oklahoma-2018,5
+Duke-2018,Iona-2018,22
+Kansas-2018,Seton Hall-2018,4
+Clemson-2018,Auburn-2018,31
+Syracuse-2018,Michigan State-2018,2
+Rhode Island-2018,Duke-2018,-25
+Kansas-2018,Clemson-2018,4
+Syracuse-2018,Duke-2018,-4
+Kansas-2018,Duke-2018,4
+Loyola–Chicago-2018,Michigan-2018,-12
+Villanova-2018,Kansas-2018,16
+Michigan-2018,Villanova-2018,-17
+Duke-2019,North Dakota State-2019,23
+VCU-2019,UCF-2019,-15
+Mississippi State-2019,Liberty-2019,-4
+Virginia Tech-2019,Saint Louis-2019,14
+Maryland-2019,Belmont-2019,2
+LSU-2019,Yale-2019,5
+Louisville-2019,Minnesota-2019,-10
+Michigan State-2019,Bradley-2019,11
+Duke-2019,UCF-2019,1
+Liberty-2019,Virginia Tech-2019,-9
+Maryland-2019,LSU-2019,-2
+Minnesota-2019,Michigan State-2019,-20
+Duke-2019,Virginia Tech-2019,2
+LSU-2019,Michigan State-2019,-17
+Duke-2019,Michigan State-2019,-1
+Gonzaga-2019,Fairleigh Dickinson-2019,38
+Syracuse-2019,Baylor-2019,-9
+Marquette-2019,Murray State-2019,-19
+Florida State-2019,Vermont-2019,7
+Buffalo-2019,Arizona State-2019,17
+Texas Tech-2019,Northern Kentucky-2019,15
+Nevada-2019,Florida-2019,-9
+Michigan-2019,Montana-2019,19
+Gonzaga-2019,Baylor-2019,12
+Murray State-2019,Florida State-2019,-28
+Buffalo-2019,Texas Tech-2019,-20
+Florida-2019,Michigan-2019,-15
+Gonzaga-2019,Florida State-2019,14
+Texas Tech-2019,Michigan-2019,19
+Gonzaga-2019,Texas Tech-2019,-6
+Virginia-2019,Gardner–Webb-2019,15
+Ole Miss-2019,Oklahoma-2019,-23
+Wisconsin-2019,Oregon-2019,-18
+Kansas State-2019,UC Irvine-2019,-6
+Villanova-2019,Saint Mary's-2019,4
+Purdue-2019,Old Dominion-2019,13
+Cincinnati-2019,Iowa-2019,-7
+Tennessee-2019,Colgate-2019,7
+Virginia-2019,Oklahoma-2019,12
+Oregon-2019,UC Irvine-2019,19
+Villanova-2019,Purdue-2019,-26
+Iowa-2019,Tennessee-2019,-6
+Virginia-2019,Oregon-2019,4
+Purdue-2019,Tennessee-2019,5
+Virginia-2019,Purdue-2019,5
+North Carolina-2019,Iona-2019,15
+Utah State-2019,Washington-2019,-17
+Auburn-2019,New Mexico State-2019,1
+Kansas-2019,Northeastern-2019,34
+Iowa State-2019,Ohio State-2019,-3
+Houston-2019,Georgia State-2019,29
+Wofford-2019,Seton Hall-2019,16
+Kentucky-2019,Abilene Christian-2019,35
+North Carolina-2019,Washington-2019,22
+Auburn-2019,Kansas-2019,14
+Ohio State-2019,Houston-2019,-15
+Wofford-2019,Kentucky-2019,-6
+North Carolina-2019,Auburn-2019,-17
+Houston-2019,Kentucky-2019,-4
+Auburn-2019,Kentucky-2019,6
+Michigan State-2019,Texas Tech-2019,-10
+Virginia-2019,Auburn-2019,1
+Texas Tech-2019,Virginia-2019,-8
+Gonzaga-2021,Norfolk State-2021,43
+Oklahoma-2021,Missouri-2021,4
+Creighton-2021,UC Santa Barbara-2021,1
+Virginia-2021,Ohio-2021,-4
+USC-2021,Drake-2021,16
+Kansas-2021,Eastern Washington-2021,9
+Oregon-2021,VCU-2021,1
+Iowa-2021,Grand Canyon-2021,12
+Gonzaga-2021,Oklahoma-2021,16
+Creighton-2021,Ohio-2021,14
+USC-2021,Kansas-2021,34
+Oregon-2021,Iowa-2021,15
+Gonzaga-2021,Creighton-2021,18
+USC-2021,Oregon-2021,14
+Gonzaga-2021,USC-2021,19
+Michigan-2021,Texas Southern-2021,16
+LSU-2021,St. Bonaventure-2021,15
+Colorado-2021,Georgetown-2021,23
+Florida State-2021,UNC Greensboro-2021,10
+BYU-2021,UCLA-2021,-11
+Texas-2021,Abilene Christian-2021,-1
+UConn-2021,Maryland-2021,-9
+Alabama-2021,Iona-2021,13
+Michigan-2021,LSU-2021,8
+Colorado-2021,Florida State-2021,-18
+UCLA-2021,Abilene Christian-2021,20
+Maryland-2021,Alabama-2021,-19
+Michigan-2021,Florida State-2021,18
+UCLA-2021,Alabama-2021,10
+Michigan-2021,UCLA-2021,-2
+Baylor-2021,Hartford-2021,24
+North Carolina-2021,Wisconsin-2021,-23
+Villanova-2021,Winthrop-2021,10
+Purdue-2021,North Texas-2021,-9
+Texas Tech-2021,Utah State-2021,12
+Arkansas-2021,Colgate-2021,17
+Florida-2021,Virginia Tech-2021,5
+Ohio State-2021,Oral Roberts-2021,-3
+Baylor-2021,Wisconsin-2021,13
+Villanova-2021,North Texas-2021,23
+Texas Tech-2021,Arkansas-2021,-2
+Florida-2021,Oral Roberts-2021,-3
+Baylor-2021,Villanova-2021,11
+Arkansas-2021,Oral Roberts-2021,2
+Baylor-2021,Arkansas-2021,9
+Illinois-2021,Drexel-2021,29
+Loyola–Chicago-2021,Georgia Tech-2021,11
+Tennessee-2021,Oregon State-2021,-14
+Oklahoma State-2021,Liberty-2021,9
+San Diego State-2021,Syracuse-2021,-16
+West Virginia-2021,Morehead State-2021,17
+Clemson-2021,Rutgers-2021,-4
+Houston-2021,Cleveland State-2021,31
+Illinois-2021,Loyola–Chicago-2021,-13
+Oregon State-2021,Oklahoma State-2021,10
+Syracuse-2021,West Virginia-2021,3
+Rutgers-2021,Houston-2021,-3
+Loyola–Chicago-2021,Oregon State-2021,-7
+Syracuse-2021,Houston-2021,-16
+Oregon State-2021,Houston-2021,-6
+Gonzaga-2021,UCLA-2021,3
+Baylor-2021,Houston-2021,19
+Gonzaga-2021,Baylor-2021,-16
