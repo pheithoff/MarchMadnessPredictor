@@ -136,6 +136,7 @@ def convertNameforTeamRankings(searchTeamString):
                         "UConn": "Connecticut",
                         "North Florida": "N Florida",
                         "Louisiana–Lafayette": "LA Lafayette",
+                        "Louisiana Lafayette": "LA Lafayette",
                         "Massachusetts": "U Mass",
                         "Georgia State": "Georgia St",
                         "Northeastern": "Northeastrn",
@@ -163,6 +164,9 @@ def convertNameforTeamRankings(searchTeamString):
                         "Abilene Christian": "Abl Christian",
                         "Grand Canyon": "Grd Canyon",
                         "Georgia Tech": "GA Tech",
+                        "Murray State": "Murray St",
+                        "Southern Illinois": "S Illinois",
+                        "UTEP": "TX El Paso"
         }
     
     if searchTeamString in teamRankingsDict:
@@ -295,8 +299,8 @@ def BracketResultsExtract_html(textfile, teamDict, resultList, statsDict):
                 team1 = convertNameforTeamRankings(team1)
                 team2 = convertNameforTeamRankings(team2)
                 
-                team1_year = team1+'_'+str(year)
-                team2_year = team2+'_'+str(year)
+                team1_year = team1+'-'+str(year)
+                team2_year = team2+'-'+str(year)
                 
                 teamDict[team1_year] = dict(statsDict)
                 teamDict[team1_year]['Seed'] = seed1

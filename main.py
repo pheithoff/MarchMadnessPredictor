@@ -129,13 +129,14 @@ if __name__ == "__main__":
     
 
     teamsDict = readTeamDictFromCSV()
+    updatedTeamsDict = stat_extraction.ExtractStatsFromTeamRankings(teamsDict)
     resultsList = readResultsFromCSV()
-    stat_extraction.BracketResultsExtract_html('2004_html.txt', teamsDict, resultsList, statsDict)
+    #stat_extraction.BracketResultsExtract_html('2004_html.txt', teamsDict, resultsList, statsDict)
     
     
-    print(teamsDict)
-    print(resultsList)
+    # print(teamsDict)
+    # print(resultsList)
     
-    # updatedTeamsDict = data_analysis.Normalize_TeamDictionary(teamsDict)
-    writeResultsToCSV(resultsList)
-    writeTeamsDictToCSV(teamsDict)
+    # # updatedTeamsDict = data_analysis.Normalize_TeamDictionary(teamsDict)
+    #writeResultsToCSV(resultsList)
+    writeTeamsDictToCSV(updatedTeamsDict)

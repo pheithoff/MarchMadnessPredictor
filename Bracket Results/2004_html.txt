@@ -43,7 +43,7 @@
 			<li><strong>No. 5 Syracuse 80</strong>, No. 12 BYU 75</li>
 			<li><strong>No. 4 Maryland 86</strong>, No. 13 UTEP 83</li>
 			<li><strong>No. 6 Vanderbilt 71</strong>, No. 11 Western Michigan 58</li>
-			<li><strong>No. 3 NC State 61</strong>, No. 14 Louisiana-Lafayette 52</li>
+			<li><strong>No. 3 NC State 61</strong>, No. 14 Louisiana Lafayette 52</li>
 			<li><strong>No. 7 DePaul 76</strong>, No. 10 Dayton 69 (2OT)</li>
 			<li><strong>No. 2 UConn 70</strong>, No. 15 Vermont 53</li>
 		</ul>
