@@ -3,6 +3,7 @@ import re
 import os
 import sys
 import stat_extraction
+import data_analysis
 
 # Stats keys used in dictionary
 statsKeys = ["Seed", "Off Eff", "Avg Scoring Margin", "Eff FG%", "Off Reb%", "FT%", "Def Reb%", "Block%",
@@ -124,7 +125,17 @@ if __name__ == "__main__":
 
     # writeResultsToCSV(resultsList)
 
+
+    
+
     teamsDict = readTeamDictFromCSV()
- 
-    updatedTeamsDict = stat_extraction.ExtractStatsFromTeamRankings(teamsDict)
-    writeTeamsDictToCSV(updatedTeamsDict)
+    resultsList = readResultsFromCSV()
+    stat_extraction.BracketResultsExtract_html('2004_html.txt', teamsDict, resultsList, statsDict)
+    
+    
+    print(teamsDict)
+    print(resultsList)
+    
+    # updatedTeamsDict = data_analysis.Normalize_TeamDictionary(teamsDict)
+    writeResultsToCSV(resultsList)
+    writeTeamsDictToCSV(teamsDict)

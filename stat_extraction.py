@@ -5,6 +5,8 @@ Created on Fri Dec 24 08:56:26 2021
 @author: patrickh
 """
 import urllib.request
+import os
+import numpy as np
 
 # Gets url string for the teamrankings website. If the specific stat does 
 # not exist then return "NaN"
@@ -241,3 +243,76 @@ def ExtractStatsFromTeamRankings(teamsDict):
     return teamsDict    
                 
     #urlstring = getTeamRankingsUrl()
+    
+  
+# Results taken from https://www.ncaa.com/news/basketball-men/article/2020-05-07/2004-ncaa-tournament-brackets-scores-stats-records
+def BracketResultsExtract_html(textfile, teamDict, resultList, statsDict):
+    
+    directory = 'Bracket Results'
+    year = textfile[0:4]
+    print(year)
+    
+    searchString = 'No. '
+    with open(directory + '/' + textfile, 'r') as f:
+        for line in f:
+            substring_index = line.find(searchString)
+            if(substring_index  != -1):
+                seedIndex = substring_index + len(searchString)
+                line = line[seedIndex:]
+                line = line.replace('<', ' <')
+                words = line.split()
+                print(words)
+                curr_index = 0
+                seed1 = int(words[curr_index])
+                curr_index = curr_index + 1
+                team1 = words[curr_index]
+                curr_index = curr_index + 1
+                integerFound = False
+                while(integerFound == False):
+                    print(words[curr_index])
+                    if words[curr_index].isdigit():
+                        team1_score = int(words[curr_index])
+                        curr_index += 3 # Add 3 to get to next seed
+                        integerFound = True
+                    else:
+                        team1 = team1 + ' ' + words[curr_index]
+                        curr_index += 1
+                        
+                seed2 = int(words[curr_index])
+                curr_index += 1
+                team2 = words[curr_index]
+                curr_index = curr_index + 1
+                integerFound = False
+                while(integerFound == False):
+                    print(words[curr_index])
+                    if words[curr_index].isdigit():
+                        team2_score = int(words[curr_index])
+                        integerFound = True
+                    else:
+                        team2 = team2 + ' ' + words[curr_index]
+                        curr_index += 1
+                
+                team1 = convertNameforTeamRankings(team1)
+                team2 = convertNameforTeamRankings(team2)
+                
+                team1_year = team1+'_'+str(year)
+                team2_year = team2+'_'+str(year)
+                
+                teamDict[team1_year] = dict(statsDict)
+                teamDict[team1_year]['Seed'] = seed1
+                teamDict[team2_year] = dict(statsDict)
+                teamDict[team2_year]['Seed'] = seed2
+                
+                # print(team1_year)
+                # print(team2_year)
+                # print(seed1)
+                # print(seed2)
+                # print(team1_score)
+                # print(team2_score)
+                
+                resultTuple = (team1_year, team2_year, (team1_score - team2_score))
+                resultList.append(resultTuple)
+                
+                
+                
+              
