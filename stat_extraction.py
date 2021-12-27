@@ -70,6 +70,10 @@ def convertNameforTeamRankings(searchTeamString):
                         "Illinois-Chicago": "IL-Chicago",
                         "UW–Milwaukee": "WI-Milwkee",
                         "Milwaukee": "WI-Milwkee",
+                        "Wisconsin Milwaukee": "WI-Milwkee",
+                        "Southeastern Louisiana": "SE Louisiana",
+                        "Delaware State": "Delaware St",
+                        "St. Mary's": "St Marys",
                         "Central Michigan": "Central Mich",
                         "Colorado State": "Colorado St",
                         "Arizona State": "Arizona St",
@@ -166,7 +170,10 @@ def convertNameforTeamRankings(searchTeamString):
                         "Georgia Tech": "GA Tech",
                         "Murray State": "Murray St",
                         "Southern Illinois": "S Illinois",
-                        "UTEP": "TX El Paso"
+                        "UTEP": "TX El Paso",
+                        "Alabama A&amp;M": "Alab A&amp;M",
+                        "UNC Charlotte": "Charlotte",
+                        
         }
     
     if searchTeamString in teamRankingsDict:
@@ -307,12 +314,12 @@ def BracketResultsExtract_html(textfile, teamDict, resultList, statsDict):
                 teamDict[team2_year] = dict(statsDict)
                 teamDict[team2_year]['Seed'] = seed2
                 
-                # print(team1_year)
-                # print(team2_year)
-                # print(seed1)
-                # print(seed2)
-                # print(team1_score)
-                # print(team2_score)
+                print(team1_year)
+                print(team2_year)
+                print(seed1)
+                print(seed2)
+                print(team1_score)
+                print(team2_score)
                 
                 resultTuple = (team1_year, team2_year, (team1_score - team2_score))
                 resultList.append(resultTuple)
