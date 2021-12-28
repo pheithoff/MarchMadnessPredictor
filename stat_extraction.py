@@ -173,6 +173,10 @@ def convertNameforTeamRankings(searchTeamString):
                         "UTEP": "TX El Paso",
                         "Alabama A&amp;M": "Alab A&amp;M",
                         "UNC Charlotte": "Charlotte",
+                        "Washington State": "Wash State",
+                        "Jackson State": "Jackson St",
+                        "Miami (Ohio)": "Miami (OH)",
+                        "Texas A&amp;M-Corpus Christi": "TX A&amp;M-CC"
                         
         }
     
