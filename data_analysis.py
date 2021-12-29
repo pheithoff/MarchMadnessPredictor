@@ -40,3 +40,31 @@ def Normalize_TeamDictionary(teamDict):
     
     
     return teamDict
+
+def Normalize_Results(resultsList):
+    minScore = 9999
+    maxScore = -9999
+    resultsList = resultsList[1:]
+    for result in resultsList:
+        # print(result)
+        temp = float(result[2])
+        # print(temp)
+        if temp < minScore:
+            minScore = temp
+        if temp > maxScore:
+            maxScore = temp
+    
+    
+    for result in resultsList:
+        # print(result)
+        temp = float(result[2])
+        # Scale values between 0 and 1 with the max score being 1
+        # the min score being 0 and 0 being -0.5
+        if temp > 0:
+            temp = (0.5)*(temp)/(maxScore)+0.5
+        else:
+            temp = (0.5)*(temp-minScore)/(-minScore)
+        
+        result[2] = temp
+    
+    return resultsList
