@@ -1,0 +1,163 @@
+<ul>
+	<li><i>Opening Round</i>
+
+	<ul>
+		<li><strong>South: No. 16 Ark Pine Bl 61</strong>, No. 16 Winthrop 44</li>
+	</ul>
+	</li>
+	<li><em>First Round (Round of 64)</em>
+	<ul>
+		<li>East Regional
+		<ul>
+			<li><strong> No. 1 Kentucky 100</strong> No. 16 East Tennessee State 71</li>
+			<li><strong> No. 2 West Virginia 77</strong> No. 15 Morgan State 50</li>
+			<li><strong> No. 3 New Mexico 62</strong> No. 14 Montana 57</li>
+			<li><strong> No. 4 Wisconsin 53</strong> No. 13 Wofford 49</li>
+			<li><strong> No. 12 Cornell 78</strong> No. 5 Temple 65</li>
+			<li><strong> No. 11 Washington 80</strong> No. 6 Marquette 78</li>
+			<li><strong> No. 10 Missouri 86</strong> No. 7 Clemson 78</li>
+			<li><strong> No. 9 Wake Forest 81</strong> No. 8 Texas 80 (OT)</li>
+		</ul>
+		</li>
+		<li>West Regional
+		<ul>
+			<li><strong> No. 1 Syracuse 79</strong> No. 16 Vermont 56</li>
+			<li><strong> No. 2 Kansas State 82</strong> No. 15 North Texas 62</li>
+			<li><strong> No. 3 Pittsburgh 89</strong> No. 14 Oakland 66</li>
+			<li><strong> No. 13 Murray State 66</strong> No. 4 Vanderbilt 65</li>
+			<li><strong> No. 5 Butler 77</strong> No. 12 UTEP 59</li>
+			<li><strong> No. 6 Xavier 65</strong> No. 11 Minnesota 54</li>
+			<li><strong> No. 7 BYU 99</strong> No. 10 Florida 92 (2OT) | <strong><a href="https://www.youtube.com/watch?v=p7ktudQC4Ao&amp;feature=youtu.be" target="_blank">Watch full game</a></strong></li>
+			<li><strong> No. 8 Gonzaga 67</strong> No. 9 Florida State 60</li>
+		</ul>
+		</li>
+		<li>South Regional
+		<ul>
+			<li><strong> No. 1 Duke 73</strong> No. 16 Ark Pine Bl 44</li>
+			<li><strong> No. 2 Villanova 73</strong> No. 15 Robert Morris 70 (OT)</li>
+			<li><strong> No. 3 Baylor 68</strong> No. 14 Sam Houston State 59</li>
+			<li><strong> No. 4 Purdue 72</strong> No. 13 Siena 64</li>
+			<li><strong> No. 5 Texas A&amp;M 69</strong> No. 12 Utah State 53</li>
+			<li><strong> No. 11 Old Dominion 51</strong> No. 6 Notre Dame 50</li>
+			<li><strong> No. 10 Saint Mary's 80</strong> No. 7 Richmond 71</li>
+			<li><strong> No. 8 California 77</strong> No. 9 Louisville 62</li>
+		</ul>
+		</li>
+		<li>Midwest Regional
+		<ul>
+			<li><b> No. 1 Kansas 90</b> No. 16 Lehigh 74</li>
+			<li><strong> No. 2 Ohio State 68</strong> No. 15 UC Santa Barbara 51</li>
+			<li><strong> No. 14 Ohio 97</strong> No. 3 Georgetown 84</li>
+			<li><strong> No. 4 Maryland 89</strong> No. 13 Houston 77</li>
+			<li><strong> No. 5 Michigan State 70</strong> No. 12 New Mexico State 67</li>
+			<li><strong> No. 6 Tennessee 62</strong> No. 11 San Diego State 59</li>
+			<li><b> No. 10 Georgia Tech 64</b> No. 7 Oklahoma State 59</li>
+			<li><strong> No. 9 Northern Iowa 69</strong> No. 8 UNLV 66</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><em>Second Round (Round of 32)</em>
+	<ul>
+		<li>East Regional
+		<ul>
+			<li><strong> No. 1 Kentucky 90</strong> No. 9 Wake Forest 60</li>
+			<li><strong> No. 2 West Virginia 68</strong> No. 10 Missouri 59</li>
+			<li><strong> No. 11 Washington 82</strong> No. 3 New Mexico 64</li>
+			<li><strong> No. 12 Cornell 87</strong> No. 4 Wisconsin 69</li>
+		</ul>
+		</li>
+		<li>West Regional
+		<ul>
+			<li><b> No. 1 Syracuse 87</b> No. 8 Gonzaga 65</li>
+			<li><strong> No. 2 Kansas State 84</strong> No. 7 BYU 72</li>
+			<li><strong> No. 6 Xavier 71</strong> No. 3 Pittsburgh 68</li>
+			<li><strong> No. 5 Butler 54</strong> No. 13 Murray State 52</li>
+		</ul>
+		</li>
+		<li>South Regional
+		<ul>
+			<li><b> No. 1 Duke 68</b> No. 8 California 53</li>
+			<li><strong> No. 10 Saint Mary's 75</strong> No. 2 Villanova 68</li>
+			<li><strong> No. 3 Baylor 76</strong> No. 11 Old Dominion 68</li>
+			<li><strong> No. 4 Purdue 63</strong> No. 5 Texas A&amp;M 61 (OT)</li>
+		</ul>
+		</li>
+		<li>Midwest Regional
+		<ul>
+			<li><b> No. 9 Northern Iowa 69</b> No. 1 Kansas 67 | <a href="https://www.youtube.com/watch?v=0K-ztVqT9Kg" target="_blank"><strong>Watch full game</strong></a></li>
+			<li><strong> No. 2 Ohio State 75</strong> No. 10 Georgia Tech 66</li>
+			<li><strong> No. 6 Tennessee 83</strong> No. 14 Ohio 68</li>
+			<li><strong> No. 5 Michigan State 85</strong> No. 4 Maryland 83 | <strong><a href="https://www.youtube.com/watch?v=8Q8nAeC5wr4&amp;feature=youtu.be" target="_blank">Watch full game</a></strong></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><em>Sweet 16</em>
+	<ul>
+		<li>East Regional
+		<ul>
+			<li><b> No. 1 Kentucky 62</b> No. 12 Cornell 45</li>
+			<li><strong> No. 2 West Virginia 69</strong> No. 11 Washington 56</li>
+		</ul>
+		</li>
+		<li>West Regional
+		<ul>
+			<li><b> No. 5 Butler 63</b> No. 1 Syracuse 59</li>
+			<li><strong> No. 2 Kansas State 101</strong> No. 6 Xavier 96 (2OT) | <strong><a href="https://www.youtube.com/watch?v=sg9YQPT_gyQ" target="_blank">Watch full game</a></strong></li>
+		</ul>
+		</li>
+		<li>South Regional
+		<ul>
+			<li><b> No. 1 Duke 70</b> No. 4 Purdue 57</li>
+			<li><strong> No. 3 Baylor 72</strong> No. 10 Saint Mary's 49</li>
+		</ul>
+		</li>
+		<li>Midwest Regional
+		<ul>
+			<li><strong> No. 5 Michigan State 59</strong> No. 9 Northern Iowa 52</li>
+			<li><strong> No. 6 Tennessee 76</strong> No. 2 Ohio State 73</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><em>Elite Eight</em>
+	<ul>
+		<li>East Regional
+		<ul>
+			<li><strong> No. 2 West Virginia 73</strong> No. 1 Kentucky 66 | <a href="https://www.youtube.com/watch?v=lQR9jnEvTJM&amp;t=4030s" target="_blank" title=""><strong>Watch full game</strong></a></li>
+		</ul>
+		</li>
+		<li>West Regional
+		<ul>
+			<li><b> No. 5 Butler 63</b> No. 2 Kansas State 56</li>
+		</ul>
+		</li>
+		<li>South Regional
+		<ul>
+			<li><b> No. 1 Duke 78</b> No. 3 Baylor 71</li>
+		</ul>
+		</li>
+		<li>Midwest Regional
+		<ul>
+			<li><strong> No. 5 Michigan State 70</strong> No. 6 Tennessee 69</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><em>Final Four (Indianapolis, Indiana)</em>
+	<ul>
+		<li>National semifinals
+		<ul>
+			<li><b> No. 1 Duke 78</b> No. 2 West Virginia 57</li>
+			<li><strong> No. 5 Butler 52</strong>, No. 5 Michigan State 50</li>
+		</ul>
+		</li>
+		<li>National championship
+		<ul>
+			<li><b> No. 1 Duke 61</b> No. 5 Butler 59 | <strong><a href="https://www.youtube.com/watch?v=vtnnjR7jZlY" target="_blank">Watch full game</a></strong></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
