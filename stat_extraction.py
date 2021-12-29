@@ -176,7 +176,10 @@ def convertNameforTeamRankings(searchTeamString):
                         "Washington State": "Wash State",
                         "Jackson State": "Jackson St",
                         "Miami (Ohio)": "Miami (OH)",
-                        "Texas A&amp;M-Corpus Christi": "TX A&amp;M-CC"
+                        "Texas A&amp;M-Corpus Christi": "TX A&amp;M-CC",
+                        "South Alabama": "S Alabama",
+                        "St. Joseph's": "St Josephs",
+                        "Portland State": "Portland St",
                         
         }
     
